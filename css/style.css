@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  color: black;
+  max-width: 800px;
+  margin: 0 auto;   
+  font-family: 'BioRhyme', serif;
+  -webkit-transition: background-color 1000ms linear;
+    -ms-transition: background-color 1000ms linear;
+    transition: background-color 1000ms linear
+}
+
+.content {
+  padding: 25px;
+}
+
+h2 {
+  font-family: 'Bungee', cursive;
+}
+#quote {
+  padding: 15px;
+  width: 75%;
+  margin: 0 auto;
+  border: 2.5px solid black;
+  border-radius: 25px; 
+  background: white;
+}
+#author{
+  font-weight: bold;
+}
